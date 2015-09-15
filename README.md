@@ -1,6 +1,6 @@
 # Wethod Heroku Buildpack DEV
 
-This is Wethod Heroku Buildpack [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks) for Development environment.
+This is Wethod Heroku Buildpack for Development environment.
 
 It uses Composer for dependency management, supports PHP or HHVM (experimental) as runtimes, and offers a choice of Apache2 or Nginx web servers.
 
